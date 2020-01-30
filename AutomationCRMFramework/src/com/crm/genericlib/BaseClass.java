@@ -8,5 +8,6 @@ public class BaseClass {
 	public void configBS()
 	{
 		System.out.println("from BS");
+		System.out.println("from BSs");
 	}
 }
